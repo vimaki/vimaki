@@ -26,6 +26,6 @@ Able to create end-to-end ML projects from data collection, followed by training
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/vitalymakin"><img align="left" src="https://www.linkpicture.com/view.php?img=LPic6220895a2fbe0710362114" alt="icon | LinkedIn" width="40px"/></a>
+<a href='https://www.linkedin.com/in/vitalymakin'><img src='https://www.linkpicture.com/q/5305157_connection_linkedin_network_linkedin-logo_icon.png' type='image' align='left' alt='icon | LinkedIn' width='40px'></a>
 
-<a href="mailto:makin.vitaly@gmail.com"><img align="left" src="https://www.linkpicture.com/view.php?img=LPic62208a5c967aa429285559" alt="icon | Email" width="40px"/></a>
+<a href='mailto:makin.vitaly@gmail.com'><img src='https://www.linkpicture.com/q/1181190_email_gmail_google_mail_icon.png' type='image' align='left' alt='icon | LinkedIn' width='40px'></a>
