@@ -24,6 +24,8 @@ Able to create end-to-end ML projects from data collection, followed by training
 ![AIOgram](https://img.shields.io/badge/-AIOgram-blue?style=for-the-badge&logo=appveyor?logo=appveyor)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimaki&langs_count=5&layout=compact)](https://github.com/vimaki/vimaki)
+
 ## Contact Me
 
 <a href='https://www.linkedin.com/in/vitalymakin'><img src='https://www.linkpicture.com/q/5305157_connection_linkedin_network_linkedin-logo_icon.png' type='image' align='left' alt='icon | LinkedIn' width='40px'></a>
