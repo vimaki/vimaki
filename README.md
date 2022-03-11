@@ -1,4 +1,4 @@
-[![image](https://www.linkpicture.com/q/Снимок-экрана-2022-03-02-в-1.57.50.png)](https://www.linkpicture.com/view.php?img=LPic621ec3e40bed6239332598)
+[![image](https://www.linkpicture.com/q/Снимок-экрана-2022-03-11-в-1.53.38.png)](https://www.linkpicture.com/view.php?img=LPic622a9dded4c77106639449)
 
 ## About Me
 
