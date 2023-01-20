@@ -1,4 +1,4 @@
-[![image](https://www.linkpicture.com/q/Снимок-экрана-2022-03-11-в-1.53.38.png)](https://www.linkpicture.com/view.php?img=LPic622a9dded4c77106639449)
+[![image](https://github.com/vimaki/vimaki/blob/main/img/header.png)](https://github.com/vimaki/vimaki/blob/main/img/header.png)
 
 ## About Me
 
@@ -28,6 +28,6 @@ Able to create end-to-end ML projects from data collection, followed by training
 
 ## Contact Me
 
-<a href='https://www.linkedin.com/in/vitalymakin'><img src='https://www.linkpicture.com/q/5305157_connection_linkedin_network_linkedin-logo_icon.png' type='image' align='left' alt='icon | LinkedIn' width='40px'></a>
+<a href='https://www.linkedin.com/in/vitalymakin'><img src='https://github.com/vimaki/vimaki/blob/main/img/icon_linkedin.png' type='image' align='left' alt='icon | LinkedIn' width='40px'></a>
 
-<a href='mailto:makin.vitaly@gmail.com'><img src='https://www.linkpicture.com/q/1181190_email_gmail_google_mail_icon.png' type='image' align='left' alt='icon | LinkedIn' width='40px'></a>
+<a href='mailto:makin.vitaly@gmail.com'><img src='https://github.com/vimaki/vimaki/blob/main/img/icon_email.png' type='image' align='left' alt='icon | Email' width='40px'></a>
