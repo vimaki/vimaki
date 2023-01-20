@@ -22,7 +22,7 @@ Able to create end-to-end ML projects from data collection, followed by training
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![AIOgram](https://img.shields.io/badge/-AIOgram-blue?style=for-the-badge&logo=appveyor?logo=appveyor)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimaki&langs_count=5&layout=compact&hide=Jupyter+Notebook)](https://github.com/vimaki/vimaki)
 
